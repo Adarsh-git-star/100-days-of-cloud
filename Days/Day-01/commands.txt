@@ -1,0 +1,5 @@
+pwd
+ls
+cd
+mkdir test
+touch file.txt
