@@ -12,4 +12,4 @@
 Linux terminal basics samjhe aur commands practice kiye.
 
 ## Status:
-Day 1 Completed ✅
+Day 1 Completed 
