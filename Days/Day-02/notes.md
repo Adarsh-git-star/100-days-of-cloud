@@ -1,13 +1,14 @@
 # Day 2 - Linux ls Command (100 Days of Cloud)
 
-##  What I Learned Today
+## 🚀 What I Learned Today
 
 Today, I learned about the `ls` command and its important options to display files and directories in different formats.
 
 ---
 
-##   ls Command Options
+## 🔍 ls Command Options
 
+```bash
 ls -l    # Long listing format
 ls -a    # Show hidden files
 ls -h    # Human-readable sizes
