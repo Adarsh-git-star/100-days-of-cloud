@@ -1,4 +1,4 @@
-# Day 4 - Linux File Management (All Commands)
+# Day 4 - Linux File Management 
 
 ##   Commands Learned
 
